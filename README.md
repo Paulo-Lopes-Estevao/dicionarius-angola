@@ -57,7 +57,7 @@ Obrigado a todas essas pessoas maravilhosas ❤😍👍👌
 - António Pazito
 - Chiesa Ernesto
 - Job Brás
-- Lázaro Inacio Manuel
+- Lázaro Inacio Manuel - ([@Lazaro-Inacio](https://github.com/Lazaro-Inacio/))
 - Toda da equipa do dialectus - [dialetus](https://github.com/mvfsillva/dialetus)
 
 ## Licença
