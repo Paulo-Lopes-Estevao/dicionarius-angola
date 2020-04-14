@@ -1,0 +1,32 @@
+[
+	{
+    "dialect": "Mekié wey?",
+    "meanings": ["Como estás amigo?", " - Saudação utilizada principalmente por adolescentes e jovens."],
+    "examples": ["- Mekié wy?"]
+  },
+  {
+    "dialect": "Estás numa!",
+    "meanings": ["Está tudo bem.", " - Usada normalmente após um cumprimento ou no final de uma conversa.", "Quando também queremos usar elogiar uma coisa"],
+    "examples": ["- Mekié wey? R: Está numa wy; - La Casa de Papel é uma série numa"]
+  },
+  {
+    "dialect": "É como? Tá calmo?",
+    "meanings": ["Oi!? Estás bem?."],
+    "examples": ["- É como wy? Está tudo calmo?", "Aqui estamos calmo."]
+  },
+  {
+    "dialect": "Tô Pausado!",
+    "meanings": ["Estou discontraído.", " - Estou muito bem."],
+    "examples": ["- Estou pausado no meu biva; - Estou pausado."]
+  },
+  {
+    "dialect": "Qual é a ideia?",
+    "meanings": ["Novidades.", " - O que pretendes fazer?"],
+    "examples": ["- Qual é a ideia wy?; - Estou realizando uma ideia."]
+  },
+  {
+    "dialect": "Tá bala!",
+    "meanings": ["Está bem.", " - Também pode ser usada quando queremos elogiar alguma mulher ou objeto."],
+    "examples": ["- Tá bala wy; - Essa m´boa é bala!; - Esse carro é bué bala."]
+  }
+]

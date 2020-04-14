@@ -1,0 +1,77 @@
+[
+	{
+    	"dialect": "Birra",
+    	"meanings": ["Cerveja", "referente a todos os tipos de bebidas alcoólicas"],
+    	"examples": ["- Passa uma birra aí; - Essa birra está gelada"]
+  	},
+  	{
+    	"dialect": "Baiano",
+    	"meanings": ["Gatuno, ladrão", "refere-se as pessoas com atitudes maliciosas"],
+    	"examples": ["- Esse aí é baiano; - Não brinca! Aquele é baiano"]
+  	},
+  	{
+    	"dialect": "Kumbú",
+    	"meanings": ["Dinheiro"],
+    	"examples": ["- Não tenho kumbú; - Meu velho tem muito kumbú"]
+  	},
+  	{
+    	"dialect": "Biva",
+    	"meanings": ["Casa"],
+    	"examples": ["- Estou indo no meu biva; - Saíndo do meu biva"]
+  	},
+  	{
+    	"dialect": "M´Boa",
+    	"meanings": ["Mulher", "Namorada", "termo usada para refere-se as mulheres em que à uma certa intimidade"],
+    	"examples": ["- Este é a minha M´boa; - Já não estou com aquela m´boa"]
+  	},
+  	{
+    	"dialect": "Bukar",
+    	"meanings": ["Estudar", "referente à escola, estudos em geral"],
+    	"examples": ["- Estou bukar matemática; - Já não quero mais bukar, mas sim trabalhar"]
+  	},
+  	{
+    	"dialect": "Mamoite",
+    	"meanings": ["Mãe", "também pode ser usada com termo de respeito pra mais velhas"],
+    	"examples": ["- Minha mamoite saiu; - Essa mamoite é muito fixe"]
+  	},
+  	{
+    	"dialect": "Papoite",
+    	"meanings": ["Pai", "também pode ser usada com termo de respeito pra mais velhos"],
+    	"examples": ["- Papoite dele é muito autoritário; - Meu papoite já é falecido"]
+  	},
+  	{
+    	"dialect": "N´guele",
+    	"meanings": ["Igreja"],
+    	"examples": ["- Estou indo na N´guele; - Ele já não vai na N´guele"]
+  	},
+  	{
+    	"dialect": "N´degue",
+    	"meanings": ["Criança", "usado também para refere-se aos irmãos menores"],
+    	"examples": ["- Este é o meu N´degue; - Esse N´degue é rebelde"]
+  	},
+  	{
+    	"dialect": "N´gampa",
+    	"meanings": ["Feiticeiro", "Bruxo", "Alguém que nos quer mal"],
+    	"examples": ["- Esse papoite é N´gampa; - Você é meu N´gampa"]
+  	},
+  	{
+    	"dialect": "Ruka",
+    	"meanings": ["Carro"],
+    	"examples": ["- Já vou ter meu ruka; - Esse ruka é de quem?"]
+  	},
+  	{
+    	"dialect": "Wy",
+    	"meanings": ["Amigo", "usado também pra desconhecidos ou pessoas de quem nos simpatizamos"],
+    	"examples": ["- Wy estás no teu biva?; - Wy, podes me dar uma indicação?"]
+  	},
+  	{
+    	"dialect": "Dreyd (Dreid)",
+    	"meanings": ["Amigo", "Companheiro", "usado também pra desconhecidos ou pessoas de quem nos simpatizamos", "também pode significar ladrão"],
+    	"examples": ["- Como estás dreid?; - Aquele dreid nos enganou."]
+  	},
+  	{
+    	"dialect": "M´bila",
+    	"meanings": ["Caminsa", "T-shirt"],
+    	"examples": ["- Esse m´bila é bonito; - Onde compraste este m´bila?"]
+  	}
+]

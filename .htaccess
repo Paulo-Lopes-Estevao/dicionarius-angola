@@ -1,0 +1,33 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^index index.php [NC,L]
+RewriteRule ^index/ index.php [NC,L]
+
+RewriteRule ^dictation dictation.php [NC,L]
+RewriteRule ^dictation/ dictation.php [NC,L]
+
+RewriteRule ^drinks drinks.php [NC,L]
+RewriteRule ^drinks/ drinks.php [NC,L]
+
+RewriteRule ^expressions expressions.php [NC,L]
+RewriteRule ^expressions/ expressions.php [NC,L]
+
+RewriteRule ^food food.php [NC,L]
+RewriteRule ^food/ food.php [NC,L]
+
+RewriteRule ^greetings greetings.php [NC,L]
+RewriteRule ^greetings/ greetings.php [NC,L]
+
+RewriteRule ^objects objects.php [NC,L]
+RewriteRule ^objects/ objects.php [NC,L]
+
+RewriteRule ^swearing swearing.php [NC,L]
+RewriteRule ^swearing/ swearing.php [NC,L]
+
+RewriteRule ^traditional traditional.php [NC,L]
+RewriteRule ^traditional/ traditional.php [NC,L]
+
+RewriteRule ^vocabulary vocabulary.php [NC,L]
+RewriteRule ^vocabulary/ vocabulary.php [NC,L]
